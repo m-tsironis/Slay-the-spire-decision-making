@@ -1,5 +1,5 @@
 ipykernel
-numpypip
+numpy
 pandas
 matplotlib
 scikit-learn
